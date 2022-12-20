@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Renato",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Muito bom aprender mokar pensamentos",
+      "autoria": "Renan",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Gosto muito em ajudar os mais novos",
+      "autoria": "Lucas",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Adoro fazer aula de Yoga",
+      "autoria": "Carol",
+      "modelo": "modelo1"
+    }
+  ]
+}
