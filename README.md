@@ -1,6 +1,6 @@
 # Memoteca
 
-<p>Projeto desenvolvido por mim durante o curso de Angular 14 da plataforma <em><strong>Alura</strong></em>, nesse treiamento aprendi como desenvolver um projeto do zero utilizando as boas praticas do framework, bem como, componentes, diretivas, formulários reativos, validação dos campos do formulário, entre outros.</p>
+<p>Projeto desenvolvido por mim durante o curso de Angular 14 da plataforma <em><strong>Alura</strong></em>, nesse treinamento aprendi como desenvolver um projeto do zero utilizando as boas praticas do framework, bem como, componentes, diretivas, formulários reativos, validação dos campos do formulário, entre outros.</p>
 
 Segue os passos para iniciar o projeto 
 
