@@ -4,31 +4,85 @@
       "id": 1,
       "conteudo": "Que bom que você veio",
       "autoria": "Renato",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Muito bom aprender mokar pensamentos",
       "autoria": "Renan",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Gosto muito em ajudar os mais novos",
       "autoria": "Lucas",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 4,
       "conteudo": "Adoro fazer aula de Yoga",
       "autoria": "Carol",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Aprendendo Java 11",
       "autoria": "Dev Java RJ",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
+    },
+    {
+      "conteudo": "Que a força esteja com você !",
+      "autoria": "RENATO",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "conteudo": "Olá",
+      "autoria": "Eli",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "Aprendendo nutrição ",
+      "autoria": "eli",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "⁠Pessoas precisam de pessoas.",
+      "autoria": "joel jota ",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 9
+    },
+    {
+      "conteudo": "⁠Tocou o despertador. Levantou. 1x0 pra você.  Trocou de roupa e foi malhar. 2x0 pra você.  Leu 10 páginas de um livro. 3x0 pra você.  Planejou seu dia e começou a trabalhar. 10x0 pra você.  Independente do placar ao final do dia, o primeiro ponto tem que ser seu.",
+      "autoria": "joel jota",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "Sim, sem dinheiro não se vive, mas só com dinheiro não se vive.",
+      "autoria": "cortella",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 11
+    },
+    {
+      "conteudo": "A tragédia não é quando um homem morre. A tragédia é o que morre dentro de um homem quando ele está vivo.",
+      "autoria": "cortella",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 12
     }
   ]
 }
